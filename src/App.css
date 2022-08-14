@@ -1,0 +1,11 @@
+.yayay         {color:white;background-color:rgb(95, 0, 0);border:transparent;border-radius:50px;font-size:x-large;text-align:center;padding:10px 20px 10px 20px;}
+
+.yayay:hover   {background-color: rgb(247, 10, 10); cursor: pointer;}
+
+.yayay:focus   {background-color: rgb(247, 10, 10);  color:rgb(0, 0, 0); padding-bottom: 12px; font-weight: bold;}
+
+h1              {text-align: center;}
+
+.sidebox        {background-color:rgb(188, 243, 181); width:2000px; border:1px solid rgb(255, 255, 255);}
+
+.space          {margin-left: 37.5%;}

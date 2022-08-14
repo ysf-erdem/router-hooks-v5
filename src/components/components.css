@@ -1,0 +1,11 @@
+.button         {color:white;background-color:rgb(95, 0, 0);border:transparent;border-radius:50px;font-size:x-large;
+    text-align:center; padding:10px 20px 10px 20px; margin-bottom: 5px;;}
+
+.button:hover   {background-color: rgb(247, 10, 10); cursor: pointer;}
+
+.button:focus   {background-color: rgb(247, 10, 10);  color:rgb(255, 255, 255); padding-bottom: 20px;}
+
+.text{  
+display:flex; flex-direction: column;font-size: x-large;
+align-items: center; justify-content: center;
+}
